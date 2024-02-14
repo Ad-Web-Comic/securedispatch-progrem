@@ -1,0 +1,14 @@
+{
+  "name": "secure-dispatch",
+  "version": "1.0.0",
+  "description": "A powerful and secure Node.js module for sending one-time passwords (OTPs) via email",
+  "main": "SecureDispatch.js",
+  "scripts": {
+    "test": "node SecureDispatch.js"
+  },
+  "author": "Muhammed Adnan",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.7.2"
+  }
+}
