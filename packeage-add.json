@@ -1,0 +1,20 @@
+{
+  "name": "securedispatch-program",
+  "version": "1.0.0",
+  "description": "Your description here",
+  "main": "index.js",
+  "scripts": {
+    "install": "npm install",
+    "start": "securedispatch-program start",
+    "build": "securedispatch-program build",
+    "test": "securedispatch-program test",
+    "lint": "securedispatch-program lint",
+    "deploy": "securedispatch-program deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "securedispatch-program": "^1.0.0"
+  }
+}
